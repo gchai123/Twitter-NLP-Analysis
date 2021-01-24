@@ -1,4 +1,4 @@
-# Twitter-NLP-Analysis
+# Twitter-NLP-BigData-Analysis
 This project uses GCP and Pyspark to analyze four universities tweets data. In nowadays world, social media takes an important role in nowadays’ social life. Twitter is the one of the most influential social medias all over the world.  Many universities use Twitter to interact with their stakeholders and to promote school brand. By analyzing university tweets data, we could gain more insights on university tweets' users and their concerns. 
 
 Original data has 300M records (2TB+). This project has selected University of Chicago, Northeastern University, University of Nebraska-Lincoln, and Brown University as subset data to compare twitterers’ difference and tweet content difference. Lastly, based on the analysis, we can offer recommendations for universities to improve their twitter account management.
