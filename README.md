@@ -4,7 +4,7 @@ This project uses GCP and Pyspark to analyze four universities tweets data. In n
 Original data has 300M records (2TB+). This project has selected University of Chicago, Northeastern University, University of Nebraska-Lincoln, and Brown University as subset data to compare twitterers’ difference and tweet content difference. Lastly, based on the analysis, we can offer recommendations for universities to improve their twitter account management.
 
 
-## The Finalversion file includes questions following: 
+## The BDP_Final file includes questions following: 
 
 1. Identify tweets related to UChicago, Brown University, Northeast University, and university of Nebraska.
 2. Complete thorough EDA to identify which variables you can use to profile the Twitterers
